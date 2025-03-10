@@ -23,7 +23,7 @@ const ServiceCard = ({ index, title, icon }) => (
       >
         <img
           src={icon}
-          alt='web-development'
+          alt='service-icon'
           className='w-16 h-16 object-contain'
         />
 
@@ -44,15 +44,18 @@ const About = () => {
       </motion.div>
 
       <motion.p
-        variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
-      >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
-        create efficient, scalable, and user-friendly solutions that solve
-        real-world problems. Let's work together to bring your ideas to life!
-      </motion.p>
+  variants={fadeIn("", "", 0.1, 1)}
+  className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+>
+  I am <strong>Manya Mangla</strong>, a Computer Science Engineering student at 
+  <strong> UPES, Dehradun</strong>, specializing in 
+  <strong> Cloud Computing & Virtual Technologies</strong>.  
+  I have hands-on experience in <strong>web development, backend technologies, and cloud-based applications</strong>, 
+  working with <strong> React.js, Node.js, MongoDB, and AWS</strong>.  
+  Passionate about building <strong> scalable, real-time applications</strong>, I enjoy applying  
+  <strong> data structures and algorithms</strong> to solve real-world challenges.
+</motion.p>
+
 
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service, index) => (
