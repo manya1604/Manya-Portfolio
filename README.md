@@ -30,6 +30,5 @@ This portfolio highlights my expertise in:
 Feel free to reach out via:
 - **Email:** manyamangla26@gmail.com
   
-⭐ Acknowledgments
-
+## ⭐ Acknowledgments
 This portfolio design is inspired by Adrian Hajdin with additional personal customizations.
