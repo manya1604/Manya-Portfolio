@@ -1,5 +1,6 @@
 import React from "react";
-import Tilt from "react-tilt";
+import Tilt from 'react-parallax-tilt';
+
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -72,7 +73,7 @@ const Works = () => {
     <>
       <motion.div variants={textVariant()}>
     
-        <h2 className={`${styles.sectionHeadText}`}>My Projects</h2>
+        <h2 className={`${styles.sectionHeadText}`}>My Projects.</h2>
       </motion.div>
 
       <div className='w-full flex'>
