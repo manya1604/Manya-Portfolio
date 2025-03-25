@@ -81,7 +81,7 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Here are some of my recent projects showcasing my skills in **full-stack development, cloud computing, and automation**.  
+          Here are some of my recent projects showcasing my skills in DOCKER and CONTAINERISATION .  
           Each project includes a brief description along with links to the source code and live demo.
         </motion.p>
       </div>

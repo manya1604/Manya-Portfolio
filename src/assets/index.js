@@ -3,6 +3,17 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
+import hello from "./hello.png";
+import sql from "./sql.png";
+import mini from "./mini.jpg";
+import backery from "./backery.png";
+import aws from "./aws.jpg";
+import volume from "./volume.jpg";
+import network from "./network.jpg";
+import ai from "./ai.png";
+import env from "./env.png";
+import postgres from "./postgres.png";
+import titanic from "./titanic.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -36,6 +47,17 @@ export {
   creator,
   mobile,
   web,
+  hello,
+  env,
+  sql,
+  volume,
+  ai,
+  backery,
+  titanic,
+  postgres,
+  mini,
+  aws,
+  network,
   github,
   menu,
   close,
