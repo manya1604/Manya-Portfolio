@@ -1,0 +1,11 @@
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-relative-links
+exclude:
+  - vendor
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
